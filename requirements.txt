@@ -1,0 +1,20 @@
+# Quantum Circuit Dataset Pipeline - Requirements
+
+# Core PDF Processing
+docling>=2.0.0   # Semantic document understanding - treats figures as units
+Pillow>=10.0.0   # Image processing
+PyMuPDF>=1.23.0  # PDF rendering and parsing (fitz)
+
+# Layout Analysis (Visual Figure Detection)
+layoutparser>=0.3.4  # Document layout analysis
+effdet>=0.4.1        # EfficientDet backbone for LayoutParser
+timm>=0.9.0          # PyTorch Image Models (required by effdet)
+numpy>=1.24.0        # Numerical operations
+
+# OCR for Local Visual Extraction
+pytesseract>=0.3.10
+
+# Development and Testing
+pytest>=7.0.0    # Testing framework
+pytest-cov>=4.0  # Coverage reporting
+

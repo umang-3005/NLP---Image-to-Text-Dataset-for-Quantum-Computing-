@@ -1,0 +1,61 @@
+============================================================
+QUANTUM CIRCUIT DATASET SUMMARY REPORT
+Exam ID: 37
+Generated: 2025-12-21 18:04:57
+============================================================
+
+Total Images: 250
+Papers with Circuits: 114
+Average Gates per Circuit: 3.44
+Average Descriptions per Image: 3.47
+
+Gate Distribution:
+  X: 132
+  I: 109
+  MEASURE: 90
+  U: 75
+  S: 74
+  T: 69
+  H: 67
+  CNOT: 48
+  Z: 48
+  Y: 32
+  Toffoli: 28
+  RY: 17
+  RZ: 13
+  RX: 12
+  SWAP: 11
+
+Algorithm Distribution:
+  Unspecified quantum circuit: 143
+  Oracle Implementation: 12
+  Hamiltonian Simulation: 11
+  Quantum Error Correction (General): 9
+  Quantum Neural Network (QNN): 8
+  Quantum Comparator: 7
+  State Preparation: 6
+  Variational Quantum Classifier (VQC): 5
+  QAOA: 4
+  Quantum Teleportation: 4
+
+============================================================
+Sample Entries:
+============================================================
+
+Filename: 2410.08073_7_1.png
+  arXiv ID: 2410.08073
+  Page: 7, Figure: 1
+  Gates: CNOT, H, I, MEASURE, X
+  Problem: Unspecified quantum circuit
+
+Filename: 2401.14993_8_1.png
+  arXiv ID: 2401.14993
+  Page: 8, Figure: 1
+  Gates: I, MEASURE, RZ, S, T
+  Problem: Tomography
+
+Filename: 2406.01335_3_2.png
+  arXiv ID: 2406.01335
+  Page: 3, Figure: 2
+  Gates: MEASURE, S, X
+  Problem: Quantum Neural Network (QNN)
