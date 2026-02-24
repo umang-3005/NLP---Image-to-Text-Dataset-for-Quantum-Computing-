@@ -17,4 +17,3 @@ pytesseract>=0.3.10
 # Development and Testing
 pytest>=7.0.0    # Testing framework
 pytest-cov>=4.0  # Coverage reporting
-
