@@ -11,8 +11,6 @@ This is the main entry point that coordinates all pipeline stages:
 7. Quality control and validation
 8. Dataset export
 
-Author: [Your Name]
-Exam ID: 37
 """
 
 import sys
