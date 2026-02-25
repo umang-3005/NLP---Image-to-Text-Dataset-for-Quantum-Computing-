@@ -127,7 +127,6 @@ class TextPosition:
         """Create from tuple."""
         return cls(start=t[0], end=t[1], source=source)
 
-
 @dataclass
 class FigureInfo:
     """
