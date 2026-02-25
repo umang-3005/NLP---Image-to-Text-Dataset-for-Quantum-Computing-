@@ -25,7 +25,6 @@ from utils.logging_utils import setup_logger
 # Module logger
 logger = setup_logger(__name__)
 
-
 @dataclass
 class CNNClassificationResult:
     """
