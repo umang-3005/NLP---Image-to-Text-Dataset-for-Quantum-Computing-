@@ -19,6 +19,7 @@ A multi-stage pipeline is required to:
 - Align extracted circuits with relevant text
 - Output a dataset suitable for research and machine learning
 
+
 ## 2. High-Level Pipeline Architecture
 
 **Pipeline Steps:**
