@@ -326,3 +326,5 @@ if __name__ == "__main__":
         print(f"Would process: {paper.arxiv_id} from {pdf_path}")
         pipeline.record_result(paper, 2)
     print("Test completed!")
+
+
