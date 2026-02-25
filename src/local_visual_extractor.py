@@ -8,7 +8,6 @@ from PIL import Image
 from pathlib import Path
 from typing import Dict, Any, List
 from collections import Counter
-
 # Import existing GateVocabulary to map OCR results to canonical names
 from gate_extraction import GateVocabulary
 from utils.logging_utils import setup_logger
