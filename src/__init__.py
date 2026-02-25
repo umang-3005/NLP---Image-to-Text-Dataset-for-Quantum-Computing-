@@ -18,8 +18,6 @@ quality_control : Dataset validation and cleaning
 dataset_export : Final dataset export
 main : Main pipeline orchestrator
 
-Author: [Umang Dholakiya]
-Exam ID: 37
 """
 
 __version__ = "1.0.0"
