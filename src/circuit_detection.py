@@ -27,7 +27,6 @@ from config import CONFIG
 from data_models import FigureInfo
 from utils.logging_utils import setup_logger
 
-
 # Module logger
 logger = setup_logger(__name__)
 
