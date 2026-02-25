@@ -17,7 +17,7 @@ Author: [Your Name]
 Exam ID: 37
 """
 
-import fitz  # PyMuPDF
+import fitz  
 import io
 import re
 from pathlib import Path
