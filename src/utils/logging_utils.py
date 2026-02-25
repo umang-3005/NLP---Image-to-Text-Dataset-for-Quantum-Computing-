@@ -4,8 +4,6 @@ Logging utilities for the Quantum Circuit Dataset Pipeline.
 This module provides centralized logging configuration to ensure
 consistent logging across all modules and reproducible debugging.
 
-Author: [Your Name]
-Exam ID: 37
 """
 
 import logging
